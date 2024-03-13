@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "710ba454d6347526",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a0311756ea0338b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3448cbd3a0a8739b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formulas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e75bd907d1ab71d",
+    "type": "split",
+    "children": [
+      {
+        "id": "824e6418e61b3682",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12e22ba8ead66064",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9638c232800138f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "85a225fdb98dedf5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "89c65e25cf07181a",
+    "type": "split",
+    "children": [
+      {
+        "id": "204ccdba93cac5f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a2a6c2581d7cf24",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Formulas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b384ddce6f12c531",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Formulas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "124ca45bf03e72f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4815818b44fb22d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Formulas.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3448cbd3a0a8739b",
+  "lastOpenFiles": [
+    "2024-01-19.md",
+    "2024-01-18.md",
+    "Formulas.md",
+    "2023-11-10.md",
+    "2023-11-06.md",
+    "2023-11-08.md",
+    "2023-11-09.md",
+    "Pasted_image_20231106103728.png",
+    "2023-10-09.md",
+    "2023-10-13.md",
+    "2023-10-06.md",
+    "2023-11-03.md",
+    "Pasted_image_20231106103728.png.md",
+    "Pasted image 20231106103728.png.md",
+    "2023-10-27.md",
+    "2023-11-04.md",
+    "2023-10-20.md",
+    "2023-10-28.md",
+    "2023-10-22.md",
+    "2023-10-16.md",
+    "Pasted_image_20231009115242.png",
+    "2023-10-21.md",
+    "2023-10-18.md",
+    "2023-10-19.md"
+  ]
+}
