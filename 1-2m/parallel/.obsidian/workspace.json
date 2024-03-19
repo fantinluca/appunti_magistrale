@@ -11,11 +11,9 @@
             "id": "32b1fe6b2aa60297",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "03-12-2024.md",
-                "mode": "source",
-                "source": false
+                "file": "img1.png"
               }
             }
           }
@@ -69,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "831f0399d4cee5b1",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-12-2024.md",
+                "file": "img1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-12-2024.md",
+                "file": "img1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-12-2024.md"
+                "file": "img1.png"
               }
             }
           }
@@ -149,8 +148,15 @@
   },
   "active": "32b1fe6b2aa60297",
   "lastOpenFiles": [
-    "03-13-2024.md",
+    "03-18-2024.md",
+    "03-15-2024.md",
+    "img1.png",
+    "img13.png",
+    "03-16-2024.md",
+    "img12.png",
+    "img11.png",
     "03-12-2024.md",
+    "03-13-2024.md",
     "03-11-2024.md",
     "img10.png",
     "img10.png",
@@ -158,12 +164,8 @@
     "img8.png",
     "Pasted image 20240312165653.png",
     "img8.png",
-    "img7.png",
     "03-08-2024.md",
     "03-10-2024.md",
-    "img6.png",
-    "img5.png",
-    "img5.png",
     "03-05-2024.md",
     "03-04-2024.md",
     "02-26-2024.md",
