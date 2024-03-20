@@ -11,13 +11,28 @@
             "id": "32b1fe6b2aa60297",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img1.png"
+                "file": "03-18-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1aa80206b3fd060e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03-18-2024.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "831f0399d4cee5b1",
@@ -84,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img1.png",
+                "file": "03-18-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img1.png",
+                "file": "03-18-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img1.png"
+                "file": "03-18-2024.md"
               }
             }
           }
@@ -146,11 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32b1fe6b2aa60297",
+  "active": "1aa80206b3fd060e",
   "lastOpenFiles": [
+    "03-20-2024.md",
+    "img1.png",
     "03-18-2024.md",
     "03-15-2024.md",
-    "img1.png",
     "img13.png",
     "03-16-2024.md",
     "img12.png",
