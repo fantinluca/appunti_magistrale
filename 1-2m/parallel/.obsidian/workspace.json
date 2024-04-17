@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "831f0399d4cee5b1",
@@ -148,8 +147,9 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "abef2af95da7c451",
+  "active": "0e2898d0870aceb7",
   "lastOpenFiles": [
+    "04-17-2024.md",
     "04-16-2024.md",
     "img24.png.~tmp",
     "img24.png",
