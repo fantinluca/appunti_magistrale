@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "04-17-2024.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "54a0cb85d2d396bf",
@@ -149,8 +148,9 @@
   },
   "active": "67c4f0cfecbeef67",
   "lastOpenFiles": [
-    "04-10-2024.md",
+    "04-18-2024.md",
     "04-17-2024.md",
+    "04-10-2024.md",
     "04-16-2024.md",
     "04-09-2024.md",
     "a.md",
@@ -179,7 +179,6 @@
     "03-15-2024.md",
     "img1.png",
     "img3.png",
-    "img2.png",
-    "03-08-2024.md"
+    "img2.png"
   ]
 }
