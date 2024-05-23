@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-20-2024.md",
+                "file": "05-10-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "831f0399d4cee5b1",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-20-2024.md",
+                "file": "05-10-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-20-2024.md",
+                "file": "05-10-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-20-2024.md"
+                "file": "05-10-2024.md"
               }
             }
           }
@@ -150,17 +149,22 @@
   },
   "active": "1d069363ec06ec47",
   "lastOpenFiles": [
-    "img34.png",
-    "img33.png",
+    "05-13-2024.md",
+    "05-21-2024.md",
+    "05-22-2024.md",
     "05-17-2024.md",
     "05-20-2024.md",
+    "05-10-2024.md",
+    "04-30-2024.md",
+    "img36.png",
+    "img35.png",
+    "04-15-2024.md",
+    "img34.png",
+    "img33.png",
     "img32.png",
     "img31.png",
-    "05-13-2024.md",
     "05-15-2024.md",
-    "05-10-2024.md",
     "03-08-2024.md",
-    "04-30-2024.md",
     "05-14-2024.md",
     "img30.png",
     "img29.png",
@@ -169,23 +173,18 @@
     "05-08-2024.md",
     "04-22-2024.md",
     "05-01-2024.md",
-    "img26.png",
     "04-16-2024.md",
     "04-19-2024.md",
     "04-27-2024.md",
     "04-23-2024.md",
-    "img25.png",
-    "04-15-2024.md",
     "04-18-2024.md",
     "04-17-2024.md",
     "img24.png.~tmp",
-    "img24.png",
     "04-12-2024.md",
     "04-14-2024.md",
     "04-09-2024.md",
     "04-08-2024.md",
     "03-22-2024.md",
-    "03-27-2024.md",
-    "03-18-2024.md"
+    "03-27-2024.md"
   ]
 }
