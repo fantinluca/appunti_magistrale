@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07-13-2024.md",
+                "file": "05-28-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9680d0f1b23538d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Senza nome.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "831f0399d4cee5b1",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07-13-2024.md",
+                "file": "Senza nome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07-13-2024.md",
+                "file": "Senza nome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07-13-2024.md"
+                "file": "Senza nome.md"
               }
             }
           }
@@ -148,10 +160,19 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "1d069363ec06ec47",
+  "active": "d9680d0f1b23538d",
   "lastOpenFiles": [
     "05-28-2024.md",
+    "Senza nome.md",
+    "img33.png",
+    "parallel.pdf",
+    "04-09-2024.md",
+    "04-16-2024.md",
+    "03-18-2024.md",
     "07-13-2024.md",
+    "07-30-2024.md",
+    "08-18-2024.md",
+    "08-31-2024.md",
     "05-21-2024.md",
     "05-10-2024.md",
     "05-13-2024.md",
@@ -163,7 +184,6 @@
     "img35.png",
     "04-15-2024.md",
     "img34.png",
-    "img33.png",
     "img32.png",
     "img31.png",
     "05-15-2024.md",
@@ -176,16 +196,9 @@
     "05-08-2024.md",
     "04-22-2024.md",
     "05-01-2024.md",
-    "04-16-2024.md",
     "04-19-2024.md",
     "04-27-2024.md",
     "04-23-2024.md",
-    "04-18-2024.md",
-    "04-17-2024.md",
-    "img24.png.~tmp",
-    "04-12-2024.md",
-    "04-14-2024.md",
-    "04-09-2024.md",
-    "04-08-2024.md"
+    "img24.png.~tmp"
   ]
 }
